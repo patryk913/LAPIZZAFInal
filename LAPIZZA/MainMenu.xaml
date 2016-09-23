@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LAPIZZA.MainMenu">
+
+    <!--stacklayout for the logo and with nested stacklayout  for main menu buttons-->
+	<StackLayout Orientation="Vertical"
+               Padding="50"
+               HorizontalOptions="Center"
+               BackgroundColor="Transparent">
+    
+      <!--Main menu logo-->
+      <Image Source="LapizzaLogo.png" />
+      
+    <!--Nested stacklayout for main menu buttons-->
+    <StackLayout>
+      
+       <!--Main menu buttons-->
+
+		<!--Button Order-->
+        <Button Text="Order" TextColor="White" BackgroundColor="Gray" Clicked="NavigateButtonOrder" />
+
+		<!--Button About Us-->
+        <Button Text="About Us" TextColor="White" BackgroundColor="Gray" Clicked="NavigateButtonAboutUs"/>
+
+		<!--Button Contact Us-->	
+        <Button Text="Contact Us" TextColor="White" BackgroundColor="Gray" Clicked="NavigateButtonContactUs"/>
+
+		<!--Button Order History-->	
+        <Button Text="Order History" TextColor="White" BackgroundColor="Gray" Clicked="NavigateButtonOrderHist"/>
+    
+    </StackLayout>
+		
+   </StackLayout>
+      
+
+
+</ContentPage>

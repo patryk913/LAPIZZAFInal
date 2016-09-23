@@ -1,0 +1,2 @@
+C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\LAPIZZA.Windows.csproj;neutral
+C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA\LAPIZZA.csproj;neutral

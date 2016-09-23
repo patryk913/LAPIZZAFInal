@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-HFC127K</Machine>
+    <WindowsUser>mhse</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2f67b8ca-2f46-4269-99f9-d27fb18d67fe</PackageIdentityName>
+    <PackageIdentityPublisher>CN=mhse</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>0FA0A56FCB53D792BC2C62312331F9609F8F5B2A0271F07136F02D3A0CC1583C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2f67b8ca-2f46-4269-99f9-d27fb18d67fe_1.0.0.0_neutral__vybhd1mpvnhgw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2f67b8ca-2f46-4269-99f9-d27fb18d67fe_vybhd1mpvnhgw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2f67b8ca-2f46-4269-99f9-d27fb18d67fe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mhse</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-15T13:24:54.352</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\bin\Debug\LAPIZZA.Windows.exe">
+      <PackagePath>LAPIZZA.Windows.exe</PackagePath>
+      <Modified>2016-09-15T14:09:30.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA\bin\Debug\LAPIZZA.dll">
+      <PackagePath>LAPIZZA.dll</PackagePath>
+      <Modified>2016-09-15T14:09:29.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-15T13:14:06.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-15T13:14:06.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-15T13:14:06.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-15T13:14:06.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\bin\Debug\LAPIZZA.Windows.xr.xml">
+      <PackagePath>LAPIZZA.Windows.xr.xml</PackagePath>
+      <Modified>2016-09-15T13:24:53.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-09-15T13:24:53.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-09-15T13:24:53.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2015-11-16T20:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mhse\Documents\Visual Studio 2015\Projects\LAPIZZA\LAPIZZA\LAPIZZA.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-09-15T13:24:54.044</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

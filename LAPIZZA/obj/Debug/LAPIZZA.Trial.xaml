@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LAPIZZA.Trial">
+
+  <StackLayout>
+    <Picker x:Name="picker" SelectedIndexChanged="PizzaBaseSelected" />
+
+    <Picker x:Name="pickerT"  SelectedIndexChanged="PizzaStyleSelected" />
+
+    <Picker x:Name="picker2"  SelectedIndexChanged="PizzaTopping1Selected"/>
+    
+    <Picker x:Name="picker3"  SelectedIndexChanged="PizzaTopping2Selected" />
+
+    <Picker x:Name="picker4"  SelectedIndexChanged="PizzaTopping2Selected"/>
+  
+    <Button Clicked="Button_OnClicked"/>
+
+ </StackLayout>
+</ContentPage>

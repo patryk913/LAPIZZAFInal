@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LAPIZZA.ContactUsPage"
+             Title="Contact Us">
+	  <!--stacklayout for the logo and with nested stacklayout contact us texts-->
+	  <StackLayout Orientation="Vertical"
+               Padding="50"
+               HorizontalOptions="Center"
+               BackgroundColor="Transparent">
+    
+      <!--logo-->
+      <Image Source="LapizzaLogo.png" />
+
+	  <!--Nested stacklayout for about us texts-->
+      <StackLayout>
+	      	<Label>Phone:</Label>
+		  	<Label>+603 2233 2102</Label>
+	      	<Label>Address:</Label>
+			<Label>83 Elgar Road</Label>
+	        <Label>3125 VIC Melbourne</Label>
+			<Label>Open Hours:</Label>
+			<Label>Monday to Sunday</Label>
+			<Label>9am - 10pm</Label>
+			<Label>Email:</Label>
+			<Label>lapiz@deakin.edu.au</Label>
+			<Label>Website:</Label>
+			<Label>http://www.deakin.edu.au/~kchandr/Mobile%20Computing/aboutus.html</Label>
+        
+      </StackLayout>
+      
+  
+  </StackLayout>
+	
+</ContentPage>
